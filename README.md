@@ -10,6 +10,10 @@ emonTH firmware tweaked to include additional framing.  This is to allow other d
 
 See blog for how this was initially demonstrated.
 
-This is version 0.1 - more flexible versions will appear in due course.
+This is version 0.1 - more flexible versions will appear in due course:
+
+- more generalised in relation to sensors
+- move decoding functionality into the RFM12Pi firmware 
 
 We have no plans to submit to NPM repo until this is done.
+
